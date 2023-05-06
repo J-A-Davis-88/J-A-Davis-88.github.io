@@ -1,0 +1,31 @@
+.intro {
+    background-image: url("https://express.adobe.com/page/jvR43exDr4Yop/images/ed0cff84-4e3e-4053-b77e-06bdf507e978.jpg?asset_id=acd03c20-462d-49a0-8af6-96eb73088c54&img_etag=%22b20c3db16c4362ef2f1c9f0719b37ecb%22&size=2560");
+
+    background-size: cover;
+}
+
+.contact-images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.github{
+    width: 150px;
+    height: 100px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.linkedin {
+    width: 100px;
+    height: 75px;
+    display: block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.email {
+    margin-left: 20px;
+    font-size: 25px;
+}
